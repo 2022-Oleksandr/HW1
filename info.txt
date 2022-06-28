@@ -1,0 +1,4 @@
+Name: Oleksandr Boichenko
+Age: 32
+Pets: None
+Salary: 20000
